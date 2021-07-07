@@ -19,3 +19,12 @@ describe "prime?" do
     expect(prime?(101013)).to be(false)
   end
 end
+
+def prime? (2)
+ prime? (2) |i|
+   if i > 1 
+    puts "#{i} is a prime number"
+  end
+end
+
+  
